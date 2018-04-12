@@ -1,0 +1,177 @@
+activity,key_person,rank
+ARCHERY,'Sarge' Spence,1
+ARCHERY,'Yeoman' Ilsley,2
+ARCHERY,Harry Philbrick,3
+ARCHERY,Sean Greatorex,4
+ARCHERY,'Trapper' White,5
+ARCHERY,'Dodger' Bustos Diaz,6
+ARCHERY,'Bowman' Linnenbank,7
+ARTS & CRAFTS,'Cruiser' Hayes,1
+ARTS & CRAFTS,'Chips' Murray,2
+ARTS & CRAFTS,'AM' Woolridge,3
+ARTS & CRAFTS,'Ace' Reidy,4
+ARTS & CRAFTS,'Swampy' Williams,5
+ARTS & CRAFTS,'Coach' Madariaga,6
+ARTS & CRAFTS,Harry Philbrick,7
+BASEBALL,'Sparks' French,1
+BASEBALL,'Boomer' Arnott,2
+BASEBALL,'Cruiser' Leyden,3
+BASEBALL,'Doc' Crawley,4
+BASEBALL,Sean Greatorex,5
+BASEBALL,Phil O'Brien,6
+BASEBALL,'Corp' Morse,7
+BASEBALL,'Coach' Madariaga,7
+BASEBALL,'Colonel' Connolly,7
+BASKETBALL,'Doc' Crawley,1
+BASKETBALL,'Sarge' Hauge,2
+BASKETBALL,'AM' Woolridge,3
+BASKETBALL,'Boomer' Arnott,4
+BASKETBALL,'Swampy' Williams,5
+BASKETBALL,Louis Geller,6
+BASKETBALL,'Inspector' Jablonski,7
+BASKETBALL,'Inspector' Colesby,7
+BASKETBALL,'Mode' McQuilling,7
+BASKETBALL,'Corp' Morse,7
+BASKETBALL,'Ace' Rasool,7
+BASKETBALL,'Sarge' Spence,7
+BOATING,'Corp' Morse,1
+BOATING,'Dodger' Bustos Diaz,2
+BOATING,'Trapper' White,3
+BOATING,'Ace' Reidy,4
+BOATING,Max Forbes,5
+BOATING,'FM' Dinsmore,6
+CHALLENGE,'Corp' Waller,1
+CHALLENGE,'Trapper' White,2
+CHALLENGE,'FM' Dinsmore,3
+CHALLENGE,'Mode' Bechler,4
+CHALLENGE,'Ranger' Cobbold,5
+DRAMATICS,'Skipper' Merz,1
+DRAMATICS,'Ace' Rasool,2
+DRAMATICS,'Yeoman' Ilsley,3
+FISHING,'Corp' Morse,1
+FISHING,'Trapper' White,2
+FOOTBALL,'Doc' Crawley,1
+FOOTBALL,'Boomer' Arnott,2
+FOOTBALL,'Sarge' Hauge,3
+FOOTBALL,'Swampy' Williams,4
+FOOTBALL,'Commish' Hingst,5
+FOOTBALL,'Sarge' Spence,6
+FRISBEE,'Commish' Hingst,1
+FRISBEE,'Sparks' Chai,2
+FRISBEE,'Bos'n' Bergreen,3
+FRISBEE,'Cox'n' Webel,4
+FRISBEE,Phil O'Brien,5
+FRISBEE,'Coach' Barnard,6
+KICKBALL,'Boomer' Arnott,1
+KICKBALL,'Cruiser' Leyden,2
+KICKBALL,'Coach' Barnard,3
+KICKBALL,'Doc' Crawley,4
+KICKBALL,'AM' Woolridge,5
+KICKBALL,'Sarge' Hauge,6
+LACROSSE,'Commish' Hingst,1
+LACROSSE,'General' Greer,2
+LACROSSE,'Coach' Barnard,3
+LACROSSE,'Guide' Scheerer,4
+LACROSSE,'Sarge' Spence,5
+LAWN GAMES,'Mode' Bechler,1
+LAWN GAMES,'Commish' Hingst,2
+LAWN GAMES,'General' Greer,3
+LAWN GAMES,'Skipper' Merz,4
+LAWN GAMES,'Sparks' Chai,5
+LAWN GAMES,'Coach' Madariaga,6
+MUSIC,'Guide' Scheerer,1
+MUSIC,'Swampy' Barnard,2
+MUSIC,'Dusty' McEwen,3
+MUSIC,'Cox'n' Webel,4
+MUSIC,'Skipper' Merz,5
+MUSIC,'Bos'n' Bergreen,6
+PHOTOGRAPHY,'Cruiser' Hayes,1
+RANGER TRAIL,'Inspector' Jablonski,2
+RANGER TRAIL,'Ranger' Wilson,3
+RANGER TRAIL,'Slugger' Selassie,4
+RANGER TRAIL,'Scout' Sopp,5
+RANGER TRAIL,'Colonel' Jepson,6
+RANGER TRAIL,'Yeoman' Ilsley,7
+RANGER TRAIL,Will Przedpelski,8
+RANGER TRAIL,'Cruiser' Leyden,8
+RANGER TRAIL,'Bos'n' Bergreen,8
+RANGER TRAIL,'Dodger' Bustos Diaz,8
+RANGER TRAIL,'Corp' Morse,8
+RIFLERY,'AM' Woolridge,1
+RIFLERY,'Dodger' Bustos Diaz,2
+RIFLERY,'Scout' Sopp,3
+RIFLERY,'Colonel' Jepson,4
+RIFLERY,'Swampy' Williams,5
+RIFLERY,'Bowman' Linnenbank,6
+SAILING,'Cox'n' Webel,1
+SAILING,'Skipper' Merz,2
+SAILING,'Swampy' Barnard,3
+SAILING,'Striker' Ewig,4
+SAILING,Phil O'Brien,5
+SAILING,'Admiral' Hogan,6
+SMALL CRAFT,'Ace' Reidy,1
+SMALL CRAFT,'FM' Dinsmore,2
+SMALL CRAFT,'Dodger' Bustos Diaz,3
+SMALL CRAFT,'Corp' Morse,4
+SMALL CRAFT,Will Przedpelski,5
+SMALL CRAFT,'Ranger' Cobbold,6
+SMALL CRAFT,Max Forbes,7
+SMALL CRAFT,'Trapper' White,7
+SOCCER,'Swampy' Williams,1
+SOCCER,'Inspector' Colesby,2
+SOCCER,'Mode' Bechler,3
+SOCCER,'Striker' Ewig,4
+SOCCER,'Ranger' Cobbold,5
+SOCCER,'Sarge' Hauge,6
+SOCCER,'Bos'n' Bergreen,7
+SOCCER,'Ace' Rasool,7
+SOCCER,'Ranger' Cobbold,7
+SOCCER,'Coach' Barnard,7
+SNORKELING,Will Bradley,1
+SPORTS TRAINING,'Doc' Crawley,1
+SPORTS TRAINING,'Inspector' Jablonski,2
+SPORTS TRAINING,'Sarge' Spence,3
+SPORTS TRAINING,'Sarge' Hauge,4
+SPORTS TRAINING,'Swampy' Williams,5
+SPORTS TRAINING,'General' Greer,6
+SPORTS TRAINING,'Mode' McQuilling,7
+SPORTS TRAINING,'Colonel' Connolly,7
+SWIMMING,'Chips' Murray,1
+SWIMMING,'Sparks' Chai,2
+SWIMMING,'Bos'n' Bergreen,3
+SWIMMING,'Striker' Ewig,4
+SWIMMING,'Coach' Madariaga,5
+SWIMMING,'Coach' Barnard,6
+SWIMMING,'Swampy' Barnard,7
+SWIMMING,'Sarge' Spence,7
+SWIMMING,'Colonel' Connolly,7
+SWIMMING,'Dodger' Bustos Diaz,7
+TENNIS,'Sarge' Hauge,1
+TENNIS,'Ace' Rasool,2
+TENNIS,'Inspector' Jablonski,3
+TENNIS,'Coach' Madariaga,4
+TENNIS,'Sparks' Chai,5
+TENNIS,'Striker' Ewig,6
+TENNIS,'Coach' Barnard,7
+TENNIS,'Inspector' Colesby,7
+TENNIS,Phil O'Brien,7
+TENNIS,'Slugger' Selassie,7
+VOLLEYBALL,'Mode' McQuilling,1
+VOLLEYBALL,'General' Greer,2
+VOLLEYBALL,'Colonel' Jepson,3
+VOLLEYBALL,'Guide' Scheerer,4
+VOLLEYBALL,'Cruiser' Leyden,5
+VOLLEYBALL,'Commish' Hingst,6
+WINDSURFING,'Mode' McQuilling,1
+WINDSURFING,'Mode' Bechler,2
+WINDSURFING,'Ranger' Wilson,3
+WINDSURFING,'Guide' Scheerer,4
+WINDSURFING,Will Bradley,5
+WINDSURFING,Phil O'Brien,6
+WINDSURFING,'Bos'n' Bergreen,7
+WOODSHOP,'Dusty' McEwen,1
+WOODSHOP,'Corp' Waller,2
+WOODSHOP,'Corp' Morse,3
+WOODSHOP,Sean Greatorex,4
+WOODSHOP,Phil O'Brien,5
+WOODSHOP,'Swampy' Williams,6
